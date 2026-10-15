@@ -1,8 +1,8 @@
 class Norma < Formula
   desc "One task loop, one verification gate, one skill library for every coding agent"
   homepage "https://github.com/jcarlosrodicio/norma"
-  url "https://github.com/jcarlosrodicio/norma/archive/refs/tags/0.21.0.tar.gz"
-  sha256 "ba6d6301f4b678c7921a656de7e9a7d3af3b824085bd9ff478fdf272175ba622"
+  url "https://github.com/jcarlosrodicio/norma/archive/refs/tags/0.22.0.tar.gz"
+  sha256 "fa52a075442b8efdbf9f49a798c999c5ea640d9410cc28a263f44026be813d6c"
   license "MIT"
   head "https://github.com/jcarlosrodicio/norma.git", branch: "master"
 
